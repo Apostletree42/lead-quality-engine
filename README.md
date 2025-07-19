@@ -4,7 +4,6 @@
 
 Hi! I built this tool as part of the Caprae Capital Internship Challenge. My goal: help sales teams spend less time chasing dead ends and more time talking to real prospects.
 
----
 
 ## What’s This Project About?
 
@@ -15,7 +14,6 @@ The pain points typically faced by salespeople everywhere are issues like bad ph
 - **After:** Leads are pre-scored and prioritized, so you can focus on the best ones first.
 - **Result:** Teams save about 60% of their time on qualification.
 
----
 
 ## Features
 
@@ -36,7 +34,6 @@ The pain points typically faced by salespeople everywhere are issues like bad ph
 - Table view for top leads
 - Export options: CSV, HubSpot JSON, model summary
 
----
 
 ## How It Works
 
@@ -58,7 +55,6 @@ CSV → Feature Engineering → ML Scoring → HubSpot Format → CRM Upload
 - **Integration:** HubSpot API v3
 - **Validation:** Regex and business logic
 
----
 
 ## Getting Started
 
@@ -88,7 +84,6 @@ streamlit run app.py
 4. (Optional) Connect to HubSpot for live upload
 5. Download results in your preferred format
 
----
 
 ## What’s the Impact?
 
@@ -104,7 +99,6 @@ streamlit run app.py
 - Analyzes job titles to find decision makers
 - Scores completeness to highlight missing info
 
----
 
 ## Demo & Modes
 
@@ -118,7 +112,6 @@ streamlit run app.py
 - Download buttons for all exports
 - Friendly error messages
 
----
 
 ## Potential Enhancements
 
@@ -132,7 +125,6 @@ streamlit run app.py
 - A/B testing for scoring tweaks
 - Salesforce and n8n integration for more automation
 
----
 
 ## Project Structure
 
@@ -152,7 +144,6 @@ lead-quality-engine/
 └── README.md
 ```
 
----
 ## Why I Chose These Features
 
 1. **Directly addresses real pain points:** I came to understand issues faced by salespeople during my previous internship.
@@ -161,7 +152,6 @@ lead-quality-engine/
 4. **Focused on business value:** Each feature is designed to save time or boost results.
 5. **Modular by design:** Easy to customize or expand as needs evolve.
 
----
 
 ## HubSpot Integration Notes
 
@@ -176,7 +166,6 @@ lead-quality-engine/
 - **Best:** SaaSSquatch CSV export
 - **Batch size:** Up to 1000 leads at once(However, do note the rate limits for Hubspot API)
 
----
 
 ## Why Use This?
 
