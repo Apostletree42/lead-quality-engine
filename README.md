@@ -8,16 +8,16 @@ Hi! I built this tool as part of the Caprae Capital Internship Challenge. My goa
 
 ## What’s This Project About?
 
-If you’ve ever worked in sales, you know the pain—bad phone numbers, fake emails, and endless spreadsheets. I wanted to fix that. This app takes raw SaaSSquatch lead data, scores it using AI, and pushes the best leads straight into HubSpot. No more guesswork.
+The pain points typically faced by salespeople everywhere are issues like bad phone numbers, fake emails, and endless spreadsheets. I wanted to fix that. This app takes raw SaaSSquatch lead data, scores it using AI, and pushes the best leads straight into HubSpot, effectively creating a smart data pipeline connecting SaaSSquatch to the Hubspot CRM.
 
 ### The Problem I’m Solving
-- **Before:** Sales reps waste hours on disconnected numbers and invalid emails.
+- **Before:** Salespeople waste hours on disconnected numbers and invalid emails.
 - **After:** Leads are pre-scored and prioritized, so you can focus on the best ones first.
 - **Result:** Teams save about 60% of their time on qualification.
 
 ---
 
-## ✨ Features
+## Features
 
 ### AI-Powered Lead Scoring
 - Uses a Random Forest model (92% training accuracy)
@@ -38,7 +38,7 @@ If you’ve ever worked in sales, you know the pain—bad phone numbers, fake em
 
 ---
 
-## 🛠️ How It Works
+## How It Works
 
 ### Data Pipeline
 ```
@@ -153,7 +153,7 @@ lead-quality-engine/
 ```
 
 ---
-## 🤔 Why I Chose These Features
+## Why I Chose These Features
 
 1. **Directly addresses real pain points:** I came to understand issues faced by salespeople during my previous internship.
 2. **Covers the full workflow:** Handles everything from raw data to CRM upload in one place.
@@ -163,7 +163,7 @@ lead-quality-engine/
 
 ---
 
-## 📞 HubSpot Integration Notes
+## HubSpot Integration Notes
 
 ### Setup
 1. Create a private app in HubSpot
@@ -174,14 +174,13 @@ lead-quality-engine/
 ### Data Requirements
 - **Minimum:** Company name, contact info
 - **Best:** SaaSSquatch CSV export
-- **Batch size:** Up to 1000 leads at once
+- **Batch size:** Up to 1000 leads at once(However, do note the rate limits for Hubspot API)
 
 ---
 
-## 🏆 Why Use This?
+## Why Use This?
 
 - **Solves real sales problems**
-- **Solid technical foundation:** ML + live API
 - **Easy to use:** Clear workflow, modern UI
 - **Professional design**
 - **Innovative:** AI + CRM, not just scraping
