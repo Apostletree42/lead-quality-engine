@@ -176,4 +176,4 @@ lead-quality-engine/
 
 ---
 
-**Made with ❤️ for sales teams who want to work
+**Made with ❤️ for sales teams who want to work smarter, not harder.**
