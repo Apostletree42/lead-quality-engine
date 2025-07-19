@@ -1,0 +1,161 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+.env
+
+# Environment variables and secrets
+.env
+.env.local
+.env.production
+.env.staging
+*.env
+config.ini
+secrets.json
+
+# API Keys and credentials
+*api_key*
+*token*
+*secret*
+hubspot_credentials.json
+api_config.py
+
+# Streamlit
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+# Data files (sensitive customer data)
+data/*.csv
+data/*.json
+data/*.xlsx
+data/*.xls
+!data/sample_leads.csv
+!data/create_sample.py
+
+# Logs
+*.log
+logs/
+*.out
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Machine learning models
+models/*.pkl
+models/*.joblib
+models/*.h5
+models/*.pb
+models/trained_*
+models/checkpoints/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Generated documentation
+docs/_build/
+
+# Performance and profiling
+*.prof
+*.pstats
+.tox/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# HubSpot specific
+hubspot_import_backup.json
+hubspot_logs/
+hubspot_errors.log
+
+# Export files
+exports/
+downloads/
+output/
+results/
+
+# Cache directories
+.cache/
+cache/
+
+# Node modules (if using any JS tools)
+node_modules/
+
+# Package files
+*.tar.gz
+*.zip
+*.rar
+*.7z
