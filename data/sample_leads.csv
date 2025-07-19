@@ -1,0 +1,101 @@
+Company,Industry,Street,City,State,BBB_Rating,Company_Phone,Website,Contact_Name,Contact_Title,Contact_Email,Contact_Phone
+SaaS Builder Inc,Computer Software Developers,3591 Oak Ave,Boston,WA,N/A,(811) 503-1873,www.saasbuilderinc.com,David Davis,President,contact0@saasbuilderinc.com,(990) 247-2963
+Pipeline Tech Inc,SaaS,8098 Tech Blvd,Seattle,CA,N/A,N/A,www.pipelinetechinc.com,Sarah Davis,President,contact1@pipelinetechinc.com,N/A
+Pipeline Tech LLC,Consulting,6447 Oak Ave,Austin,FL,N/A,N/A,N/A,Lisa Davis,Marketing Director,N/A,N/A
+TechFlow Solutions LLC,SaaS,8432 Tech Blvd,Boston,WA,N/A,N/A,www.techflowsolutionsllc.com,N/A,N/A,contact3@techflowsolutionsllc.com,N/A
+CloudForge LLC,Consulting,6155 Innovation Dr,Austin,PA,A+,(939) 348-9092,www.cloudforgellc.com,John Johnson,Founder,contact4@cloudforgellc.com,(510) 489-2481
+AutoScale Corp,Marketing,9428 Main St,San Francisco,NY,N/A,N/A,www.autoscalecorp.com,N/A,Manager,contact5@autoscalecorp.com,(792) 830-3960
+SaaS Builder LLC,Marketing,6169 Main St,Seattle,FL,N/A,N/A,www.saasbuilderllc.com,N/A,CEO,contact6@saasbuilderllc.com,(805) 479-9005
+AutoScale Corp,Computer Software Developers,6938 Tech Blvd,Denver,NJ,B+,(829) 316-9772,www.autoscalecorp.com,N/A,CEO,N/A,(416) 778-8422
+Pipeline Tech Inc,Technology,4958 Tech Blvd,Boston,NJ,A+,N/A,www.pipelinetechinc.com,John Johnson,CEO,contact8@pipelinetechinc.com,N/A
+Growth Labs Inc,SaaS,4868 Oak Ave,Austin,FL,N/A,N/A,www.growthlabsinc.com,Sarah Johnson,Manager,contact9@growthlabsinc.com,N/A
+AI Metrics Co LLC,Marketing,1819 Innovation Dr,Austin,FL,B,(567) 607-7369,www.aimetricscollc.com,David Davis,CEO,contact10@aimetricscollc.com,N/A
+Pipeline Tech Co,Computer Software Developers,9052 Oak Ave,Austin,NJ,A+,(382) 272-3124,www.pipelinetechco.com,David Smith,Marketing Director,N/A,(838) 238-6456
+AutoScale Inc,Technology,6060 Tech Blvd,Denver,WA,A+,N/A,www.autoscaleinc.com,Sarah Johnson,President,contact12@autoscaleinc.com,N/A
+AI Metrics Co LLC,Marketing,5416 Tech Blvd,Boston,CA,A,N/A,www.aimetricscollc.com,N/A,Founder,N/A,(490) 715-9745
+Pipeline Tech Corp,Computer Software Developers,6538 Oak Ave,New York,FL,B,(459) 255-7154,www.pipelinetechcorp.com,Jane Williams,Marketing Director,contact14@pipelinetechcorp.com,(406) 819-9052
+Growth Labs Co,SaaS,8599 Oak Ave,Miami,WA,N/A,(365) 605-5011,www.growthlabsco.com,John Brown,Founder,contact15@growthlabsco.com,N/A
+AI Metrics Co LLC,Consulting,9067 Innovation Dr,Austin,WA,A+,N/A,www.aimetricscollc.com,N/A,President,contact16@aimetricscollc.com,(565) 611-2962
+AI Metrics Co Inc,Technology,5187 Tech Blvd,New York,CA,B,N/A,N/A,Lisa Smith,CTO,contact17@aimetricscoinc.com,N/A
+DataSync Inc Inc,Consulting,1420 Main St,Denver,PA,A,(942) 545-3105,www.datasyncincinc.com,Jane Williams,Marketing Director,contact18@datasyncincinc.com,N/A
+AutoScale Corp,Marketing,7532 Tech Blvd,New York,NJ,B,(814) 695-9769,N/A,Mike Johnson,VP Sales,contact19@autoscalecorp.com,(687) 607-2981
+CloudPipe Pro LLC,SaaS,257 Innovation Dr,Austin,CA,A+,(303) 335-6488,www.cloudpipeprollc.com,David Smith,CEO,contact20@cloudpipeprollc.com,(818) 995-3183
+DataSync Inc Co,SaaS,3403 Main St,San Francisco,PA,N/A,(762) 651-1520,www.datasyncincco.com,N/A,CTO,contact21@datasyncincco.com,(252) 388-5689
+SaaS Builder Co,Consulting,7703 Tech Blvd,Austin,NY,A,N/A,www.saasbuilderco.com,Sarah Johnson,Founder,contact22@saasbuilderco.com,N/A
+AI Metrics Co Inc,Computer Software Developers,4520 Innovation Dr,San Francisco,NY,N/A,(468) 513-2845,www.aimetricscoinc.com,Jane Johnson,CEO,contact23@aimetricscoinc.com,(834) 253-9985
+CodeStream LLC,SaaS,6999 Main St,Austin,NJ,N/A,(366) 929-5778,www.codestreamllc.com,Sarah Davis,VP Sales,contact24@codestreamllc.com,(740) 630-2515
+Pipeline Tech Corp,SaaS,2358 Oak Ave,Seattle,NJ,A,(450) 226-1315,www.pipelinetechcorp.com,N/A,CEO,contact25@pipelinetechcorp.com,(677) 689-8630
+Growth Labs Inc,Consulting,3018 Main St,Seattle,TX,A+,N/A,www.growthlabsinc.com,Jane Smith,President,N/A,N/A
+DevCore Ltd Co,Computer Software Developers,1068 Innovation Dr,New York,CA,N/A,(285) 416-8849,www.devcoreltdco.com,N/A,N/A,N/A,(223) 316-2806
+TechFlow Solutions Co,SaaS,3097 Innovation Dr,San Francisco,PA,N/A,N/A,www.techflowsolutionsco.com,N/A,Founder,contact28@techflowsolutionsco.com,N/A
+CloudPipe Pro LLC,Consulting,5371 Main St,Austin,FL,B+,N/A,www.cloudpipeprollc.com,N/A,Marketing Director,contact29@cloudpipeprollc.com,(920) 755-7109
+TechFlow Solutions Co,SaaS,3046 Tech Blvd,Denver,CA,B+,(555) 755-4935,www.techflowsolutionsco.com,N/A,Manager,N/A,N/A
+CodeStream Corp,SaaS,7435 Innovation Dr,Seattle,PA,A+,(430) 809-7439,www.codestreamcorp.com,David Johnson,Founder,contact31@codestreamcorp.com,(331) 826-1176
+SaaS Builder Corp,Technology,6079 Innovation Dr,Seattle,NJ,B,(460) 729-4150,www.saasbuildercorp.com,Jane Johnson,VP Sales,contact32@saasbuildercorp.com,(265) 842-9820
+DataBridge Corp,Consulting,6372 Tech Blvd,Austin,WA,N/A,(650) 698-2368,N/A,Mike Smith,CTO,contact33@databridgecorp.com,(230) 667-6664
+DataBridge Inc,Technology,1138 Innovation Dr,Miami,TX,A+,(678) 828-7261,www.databridgeinc.com,N/A,N/A,contact34@databridgeinc.com,(651) 564-7879
+CloudPipe Pro Corp,SaaS,336 Oak Ave,New York,TX,A+,N/A,N/A,N/A,Marketing Director,contact35@cloudpipeprocorp.com,(665) 362-7119
+Growth Labs Corp,SaaS,4374 Innovation Dr,Denver,WA,B,(694) 542-2694,N/A,N/A,Marketing Director,contact36@growthlabscorp.com,(670) 616-5430
+TechFlow Solutions Corp,Marketing,8357 Oak Ave,Austin,WA,N/A,(798) 732-5172,www.techflowsolutionscorp.com,N/A,N/A,contact37@techflowsolutionscorp.com,(456) 692-2937
+DevCore Ltd Corp,Technology,1679 Oak Ave,Seattle,NJ,N/A,(506) 204-9367,www.devcoreltdcorp.com,Sarah Johnson,Founder,contact38@devcoreltdcorp.com,(611) 485-1706
+CloudForge Inc,Consulting,7111 Tech Blvd,Denver,PA,A+,N/A,www.cloudforgeinc.com,Mike Johnson,Founder,contact39@cloudforgeinc.com,(281) 306-8850
+Pipeline Tech Co,Marketing,4807 Oak Ave,Denver,NJ,A,N/A,www.pipelinetechco.com,Lisa Brown,CEO,contact40@pipelinetechco.com,(695) 590-6645
+Growth Labs LLC,SaaS,8084 Innovation Dr,Miami,PA,B+,(821) 913-4909,www.growthlabsllc.com,N/A,N/A,N/A,(987) 565-5482
+DataBridge Corp,Consulting,3663 Main St,Miami,FL,B+,N/A,www.databridgecorp.com,Jane Davis,CTO,contact42@databridgecorp.com,N/A
+Growth Labs LLC,Marketing,520 Innovation Dr,Denver,FL,A+,(701) 870-9610,N/A,Lisa Brown,President,N/A,N/A
+AI Metrics Co LLC,Marketing,6242 Innovation Dr,Miami,WA,A+,(661) 681-6854,www.aimetricscollc.com,Mike Johnson,Marketing Director,contact44@aimetricscollc.com,N/A
+DataBridge LLC,Marketing,8335 Innovation Dr,New York,PA,B,N/A,www.databridgellc.com,David Johnson,VP Sales,contact45@databridgellc.com,(407) 684-4250
+Growth Labs LLC,SaaS,5147 Innovation Dr,New York,FL,N/A,(275) 466-3101,www.growthlabsllc.com,Lisa Johnson,VP Sales,contact46@growthlabsllc.com,N/A
+AutoScale Corp,Consulting,1493 Main St,Seattle,FL,B+,(572) 920-9669,www.autoscalecorp.com,Sarah Smith,CEO,N/A,(382) 992-6565
+CodeStream Co,SaaS,6455 Innovation Dr,Seattle,NJ,N/A,(834) 431-2284,www.codestreamco.com,N/A,President,contact48@codestreamco.com,N/A
+SaaS Builder Inc,Marketing,339 Innovation Dr,Austin,NY,B+,(679) 661-9713,N/A,Sarah Brown,CTO,contact49@saasbuilderinc.com,N/A
+CloudPipe Pro LLC,Computer Software Developers,3163 Oak Ave,Denver,FL,N/A,(457) 459-1113,www.cloudpipeprollc.com,Sarah Davis,Manager,contact50@cloudpipeprollc.com,(464) 962-7096
+CloudPipe Pro Inc,Technology,4688 Oak Ave,Seattle,CA,B+,(860) 879-7577,www.cloudpipeproinc.com,Lisa Johnson,Marketing Director,N/A,(488) 636-2942
+DataSync Inc Co,Marketing,6374 Main St,Boston,CA,A,N/A,N/A,David Williams,CEO,contact52@datasyncincco.com,N/A
+SaaS Builder LLC,Consulting,3183 Tech Blvd,New York,CA,B+,N/A,www.saasbuilderllc.com,Mike Williams,CEO,contact53@saasbuilderllc.com,(202) 774-6934
+DevCore Ltd LLC,Marketing,6651 Main St,Seattle,NY,N/A,(812) 902-9100,N/A,Sarah Smith,Manager,N/A,(261) 248-8541
+CloudForge Corp,Technology,3858 Oak Ave,Denver,FL,N/A,(278) 607-8094,www.cloudforgecorp.com,Lisa Johnson,VP Sales,contact55@cloudforgecorp.com,N/A
+DataBridge Co,Technology,7784 Innovation Dr,Denver,WA,A+,(285) 959-5706,www.databridgeco.com,Sarah Smith,VP Sales,contact56@databridgeco.com,N/A
+AutoScale Co,Technology,9825 Tech Blvd,Seattle,FL,B,N/A,www.autoscaleco.com,Lisa Smith,CEO,contact57@autoscaleco.com,(864) 470-2671
+AI Metrics Co LLC,SaaS,4069 Oak Ave,Seattle,TX,N/A,N/A,www.aimetricscollc.com,Sarah Williams,VP Sales,N/A,(557) 408-3177
+Pipeline Tech Inc,Technology,5844 Oak Ave,Seattle,CA,N/A,(624) 544-1864,www.pipelinetechinc.com,Lisa Johnson,President,contact59@pipelinetechinc.com,N/A
+DataSync Inc LLC,Marketing,476 Tech Blvd,New York,CA,N/A,(294) 658-2598,N/A,Lisa Smith,CTO,N/A,(532) 790-5673
+Growth Labs Inc,Computer Software Developers,2355 Tech Blvd,Austin,PA,N/A,(482) 985-1435,www.growthlabsinc.com,John Williams,CTO,N/A,(321) 342-2312
+CodeStream Co,Technology,3693 Main St,San Francisco,CA,N/A,(256) 304-8955,www.codestreamco.com,Jane Johnson,Manager,contact62@codestreamco.com,N/A
+SaaS Builder LLC,Marketing,9769 Oak Ave,San Francisco,CA,N/A,(554) 775-8651,www.saasbuilderllc.com,John Williams,N/A,contact63@saasbuilderllc.com,N/A
+SaaS Builder Inc,Marketing,3768 Innovation Dr,San Francisco,NY,N/A,(958) 914-5982,www.saasbuilderinc.com,Lisa Johnson,N/A,contact64@saasbuilderinc.com,(546) 624-4899
+DataBridge LLC,Computer Software Developers,5231 Tech Blvd,Boston,NJ,A+,N/A,www.databridgellc.com,Lisa Brown,N/A,contact65@databridgellc.com,N/A
+DevCore Ltd LLC,Consulting,1591 Innovation Dr,Seattle,WA,A,(918) 804-5272,N/A,N/A,President,contact66@devcoreltdllc.com,N/A
+AutoScale Inc,SaaS,2834 Oak Ave,Miami,PA,B+,N/A,www.autoscaleinc.com,N/A,Marketing Director,N/A,(915) 901-9394
+TechFlow Solutions Corp,SaaS,5918 Main St,Boston,PA,A,(355) 690-4857,www.techflowsolutionscorp.com,David Johnson,CEO,N/A,(813) 603-2098
+Pipeline Tech Inc,SaaS,4815 Oak Ave,Austin,FL,N/A,(985) 383-9743,www.pipelinetechinc.com,N/A,President,contact69@pipelinetechinc.com,(913) 930-8900
+SaaS Builder Corp,Consulting,647 Innovation Dr,Boston,NJ,A+,N/A,www.saasbuildercorp.com,N/A,Manager,contact70@saasbuildercorp.com,N/A
+AI Metrics Co Co,Marketing,3023 Oak Ave,Seattle,WA,A,(981) 655-4702,www.aimetricscoco.com,Jane Smith,CTO,contact71@aimetricscoco.com,N/A
+DevCore Ltd Inc,Technology,6658 Innovation Dr,Seattle,TX,N/A,(650) 475-8807,www.devcoreltdinc.com,Sarah Brown,Manager,contact72@devcoreltdinc.com,N/A
+Pipeline Tech Corp,Marketing,9023 Innovation Dr,Seattle,TX,B,N/A,www.pipelinetechcorp.com,Mike Brown,CEO,contact73@pipelinetechcorp.com,(911) 796-8470
+AI Metrics Co Corp,Computer Software Developers,6993 Oak Ave,San Francisco,WA,A,(272) 392-7450,www.aimetricscocorp.com,Sarah Brown,Manager,contact74@aimetricscocorp.com,N/A
+DataBridge Co,Technology,5672 Innovation Dr,Seattle,FL,A+,N/A,www.databridgeco.com,N/A,Founder,contact75@databridgeco.com,(461) 731-6503
+DevCore Ltd Corp,Computer Software Developers,610 Oak Ave,Boston,NJ,A,(958) 889-3156,www.devcoreltdcorp.com,Sarah Davis,CTO,N/A,N/A
+AutoScale Inc,Consulting,8689 Tech Blvd,Denver,NY,N/A,N/A,www.autoscaleinc.com,N/A,CEO,N/A,(947) 796-6303
+AutoScale LLC,SaaS,6150 Oak Ave,Seattle,WA,B,N/A,www.autoscalellc.com,Lisa Smith,Marketing Director,contact78@autoscalellc.com,(668) 776-7248
+Growth Labs Corp,SaaS,5637 Main St,Boston,WA,N/A,(772) 596-1246,www.growthlabscorp.com,Mike Williams,CTO,contact79@growthlabscorp.com,N/A
+Growth Labs Inc,SaaS,1708 Main St,New York,NY,B,N/A,www.growthlabsinc.com,N/A,CEO,N/A,N/A
+TechFlow Solutions LLC,Consulting,3166 Innovation Dr,Austin,WA,A,(666) 927-1603,www.techflowsolutionsllc.com,David Johnson,N/A,contact81@techflowsolutionsllc.com,(405) 415-7379
+DataSync Inc Corp,Technology,1585 Innovation Dr,San Francisco,FL,A,N/A,www.datasyncinccorp.com,Mike Brown,VP Sales,contact82@datasyncinccorp.com,N/A
+DataBridge LLC,Marketing,6260 Tech Blvd,San Francisco,PA,A+,(311) 643-9764,www.databridgellc.com,John Smith,President,contact83@databridgellc.com,(865) 847-6345
+CloudForge Co,Computer Software Developers,4963 Innovation Dr,Miami,CA,B,(826) 966-2868,www.cloudforgeco.com,Sarah Brown,VP Sales,contact84@cloudforgeco.com,(467) 987-6021
+DataBridge Inc,SaaS,4768 Main St,Boston,CA,B,(358) 886-1971,N/A,Jane Johnson,VP Sales,contact85@databridgeinc.com,N/A
+Pipeline Tech LLC,Technology,3946 Main St,Denver,WA,A+,(338) 590-8038,www.pipelinetechllc.com,David Davis,Founder,N/A,(876) 374-1529
+AI Metrics Co Inc,Technology,4281 Tech Blvd,Miami,FL,A+,N/A,www.aimetricscoinc.com,John Williams,N/A,contact87@aimetricscoinc.com,(854) 415-1083
+CloudPipe Pro Corp,Marketing,8563 Oak Ave,Austin,TX,N/A,(251) 672-5050,N/A,Lisa Williams,President,N/A,(735) 326-9440
+AI Metrics Co Corp,Computer Software Developers,9356 Oak Ave,New York,FL,A+,N/A,www.aimetricscocorp.com,Sarah Davis,VP Sales,N/A,N/A
+DevCore Ltd Corp,SaaS,9810 Main St,Austin,CA,A,(610) 238-3076,www.devcoreltdcorp.com,N/A,CTO,contact90@devcoreltdcorp.com,N/A
+SaaS Builder LLC,Marketing,2618 Main St,Austin,WA,N/A,N/A,www.saasbuilderllc.com,David Davis,VP Sales,contact91@saasbuilderllc.com,(383) 374-7613
+CloudPipe Pro Corp,Consulting,2107 Main St,Austin,WA,A+,(630) 242-1469,www.cloudpipeprocorp.com,Mike Johnson,President,N/A,(980) 682-5350
+DataBridge Corp,SaaS,4924 Oak Ave,Denver,TX,B,N/A,www.databridgecorp.com,Lisa Smith,CEO,N/A,(927) 551-5743
+SaaS Builder Inc,Consulting,6317 Main St,Austin,TX,N/A,N/A,N/A,Sarah Johnson,CEO,contact94@saasbuilderinc.com,(506) 468-9797
+Pipeline Tech Co,Technology,8498 Tech Blvd,Denver,NY,N/A,(219) 762-8598,N/A,John Johnson,CTO,N/A,(774) 971-7037
+DataBridge Corp,Marketing,9336 Oak Ave,Seattle,CA,B+,N/A,www.databridgecorp.com,Sarah Brown,CEO,N/A,N/A
+Growth Labs Corp,Marketing,1399 Tech Blvd,Seattle,TX,A,N/A,www.growthlabscorp.com,Jane Williams,CTO,N/A,N/A
+AutoScale Co,Consulting,2277 Main St,Boston,CA,B+,N/A,www.autoscaleco.com,Sarah Davis,CEO,contact98@autoscaleco.com,(266) 638-1524
+SaaS Builder Corp,Consulting,9992 Main St,New York,TX,B,(678) 782-9994,www.saasbuildercorp.com,Lisa Davis,Founder,N/A,(925) 698-7126
